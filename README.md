@@ -1,3 +1,3 @@
 # juliabcb.github.io
 
-This is Julias website. Welcome. 
+This is Julia's website. Welcome. 
