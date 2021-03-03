@@ -1,3 +1,3 @@
-# juliabcb.github.io
+# README
 
 This is Julia's website. Welcome. 
